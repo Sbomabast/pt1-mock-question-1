@@ -16,7 +16,7 @@ int main(int argc, char *argv[]) {
 
 	// 1.1 on branch "master", uncomment the following line and make a comm
 
-	//cout << "This is the first line of code" << endl;
+	cout << "This is the first line of code" << endl;
 
 	// 1.2 create and switch to branch "hello", uncomment (and complete) the following line and make a commit  
 	// cout << "Hello, my name is ___________." << endl;
